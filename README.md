@@ -7,7 +7,7 @@ https://bitbucket.org/wcauchois/pysvmlight/
 
 A Python binding to the [SVM-Light](http://svmlight.joachims.org/) support vector machine library by Thorsten Joachims.
 
-Translation to Python by Ceri Stagg and by David Campbell.
+Translation to Python by Ceri Stagg and by David Campbell, Hacker School project, NYC, summer 2012.
 Original PySVMLight by Bill Cauchois.
 
 Installation
