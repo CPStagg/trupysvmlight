@@ -1,7 +1,8 @@
 TruPySVMLight
 ==========
 
-Python re-implementation of Bill Cauchois's C-based pysvmlight Python-to-SVM interface (hosted on Bitbucket)
+Python re-implementation of Bill Cauchois's C-based pysvmlight Python-to-SVM interface (hosted on Bitbucket):
+https://bitbucket.org/wcauchois/pysvmlight/
 ==========
 
 A Python binding to the [SVM-Light](http://svmlight.joachims.org/) support vector machine library by Thorsten Joachims.
